@@ -11,4 +11,5 @@ public class StackStructureTest {
             throw new RuntimeException(e);
         }
     }
+
 }
